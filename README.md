@@ -43,7 +43,7 @@
 ---
 
 ### 📬 **Contáctame**  
-📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+📧 **Email:** [juanrodriguezcontactrb@gmail.com](juanrodriguezcontactrb@gmail.com)  
 🌐 **Portafolio:** [en construcción]()  
 🔗 **LinkedIn:** [tu-perfil-linkedin](https://linkedin.com)  
 
